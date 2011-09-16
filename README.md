@@ -2,7 +2,7 @@ You can test this extension by visiting any page that contains a link with a rel
 
 ## display-canonical-url.user.js
 
-This is a rewrite of the script described in [this tripwolf post](http://www.tripwolf.com/en/blog/2009/03/17/offtopic-canonical-a-powerful-seo-concept/).
+This is a rewrite of the script described in [this tripwolf post](http://www.tripwolf.com/en/blog/2009/03/17/offtopic-canonical-a-powerful-seo-concept/).  The [commit message from the initial commit](https://github.com/chrisroos/show-canonical-urls.user.js/commit/10dd664b6c1d17691bef0ad1285f0d421195955c) explains why I chose to rewrite it.
 
 It's currently hosted on [userscripts.org](http://userscripts.org/scripts/show/54133).
 
